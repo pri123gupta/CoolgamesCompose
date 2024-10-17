@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872839759630",
+    "project_id": "coodgames-c7a48",
+    "storage_bucket": "coodgames-c7a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872839759630:android:33f9e820a58c06d5b9795f",
+        "android_client_info": {
+          "package_name": "com.example.coolgamesincompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZnPu3MVsqd-1BGKIauFMofqJieQ3VXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
